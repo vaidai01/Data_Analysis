@@ -1,0 +1,31 @@
+student_id,name,gender,age,math_score,science_score,english_score,attendance_%,grade
+1,Alice Johnson,Female,16,85,90,88,95,A
+2,Bob Smith,Male,17,72,68,75,80,B
+3,Carol White,Female,16,90,95,92,98,A
+4,David Brown,Male,18,55,60,50,65,C
+5,Eva Green,Female,17,78,80,85,90,B
+6,Frank Black,Male,16,,,70,70,B
+7,Grace Lee,Female,18,92,88,95,97,A
+8,Henry Davis,Male,17,45,50,,55,D
+9,Isla Martin,Female,16,88,85,90,93,A
+10,Jack Wilson,Male,18,60,65,62,72,C
+11,Karen Taylor,Female,17,95,98,97,99,A
+12,Liam Anderson,Male,16,70,72,68,85,B
+13,Mia Thomas,Female,18,,,, ,F
+14,Noah Jackson,Male,17,82,79,84,88,B
+15,Olivia Harris,Female,16,76,80,78,91,B
+16,Peter Clark,Male,18,50,55,48,60,D
+17,Quinn Lewis,Female,17,89,91,93,96,A
+18,Ryan Walker,Male,16,65,70,60,75,C
+19,Sophia Hall,Female,17,93,90,95,98,A
+20,Tom Allen,Male,18,40,45,38,50,F
+21,Uma Young,Female,16,80,83,79,87,B
+22,Victor King,Male,17,68,65,72,78,B
+23,Wendy Scott,Female,18,87,89,91,94,A
+24,Xander Hill,Male,16,55,58,52,63,C
+25,Yara Adams,Female,17,91,94,89,97,A
+26,Zoe Baker,Female,16,74,77,80,83,B
+27,Aaron Nelson,Male,18,62,60,65,70,C
+28,Bella Carter,Female,17,83,85,88,92,A
+29,Chris Mitchell,Male,16,48,52,45,58,D
+30,Diana Perez,Female,18,96,97,98,100,A
